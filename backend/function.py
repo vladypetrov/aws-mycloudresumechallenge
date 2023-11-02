@@ -1,2 +1,2 @@
 hello = "Hello World!"
-print(hello)
+print(hello * 2)
